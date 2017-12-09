@@ -7,6 +7,8 @@
 * [Debian Derivative distro guidelines](https://wiki.debian.org/Derivatives/Guidelines)
 
 ## Files to be changed
+See [DERIVATIVE_CHANGES.md](DERIVATIVE_CHANGES.md)
+
 ### /etc/issue
 * Definitely part of ‘config’
 * Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
