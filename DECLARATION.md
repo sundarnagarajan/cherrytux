@@ -6,10 +6,8 @@
 
 ## Files that have been changed
 
-## If I have missed anything
-Open an issue on this github repository
-
-Include following information:
+## Reporting trademark issues
+Please open an issue on this github repository. If possible, label your issue as ```trademark```. The label is already created and ready. Include the following information:
 * Which trademark is affected?
 * Which file is affected - full path?
 * What information do you want removed / changed in the file?
