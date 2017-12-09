@@ -53,6 +53,7 @@ I do not THINK the following keys need to be changed:
 ## Reporting trademark issues
 Please open an issue on this github repository. If possible, label your issue as ```trademark```. The label is already created and ready. Include the following information:
 * Which trademark is affected?
+* Who is the trademark owner?
 * Which file is affected - full path?
 * What information do you want removed / changed in the file?
 * Are you the owner of the related trademark?
