@@ -20,20 +20,22 @@
 * Create new target /etc/dpkg/origins/cherrytux and point at that instead
 * This contains Vendor, Vendor URL, bugs URL and Parent
 * Change to:
-
+```
     Vendor: Cherrytux
-    Vendor-URL: http://www.example.com
-    Bugs URL: http://www.example.com/bugs
+    Vendor-URL: https://github.com/sundarnagarajan/cherrytux
+    Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
     Parent: Ubuntu
+```
 
 ### /etc/dpkg/origins/ubuntu
 * This contains Vendor, Vendor URL, bugs URL and Parent
 * Leave unchanged (owned by package base-files) and create new file /etc/dpkg/origins/cherrytux containing:
-
+```
     Vendor: Cherrytux
-    Vendor-URL: http://www.example.com
-    Bugs URL: http://www.example.com/bugs
+    Vendor-URL: https://github.com/sundarnagarajan/cherrytux
+    Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
     Parent: Ubuntu
+```
 * Make /etc/dpkg/origins/default symlink to /etc/dpkg/origins/cherrytux 
 
 ### /etc/os-release
