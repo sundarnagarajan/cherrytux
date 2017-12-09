@@ -26,7 +26,7 @@ See [DERIVATIVE_CHANGES.md](DERIVATIVE_CHANGES.md)
     Vendor: Cherrytux
     Vendor-URL: https://github.com/sundarnagarajan/cherrytux
     Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
-    Parent: Ubuntu
+    Parent: Ubuntu (unchanged)
 ```
 
 ### /etc/dpkg/origins/ubuntu
@@ -36,7 +36,7 @@ See [DERIVATIVE_CHANGES.md](DERIVATIVE_CHANGES.md)
     Vendor: Cherrytux
     Vendor-URL: https://github.com/sundarnagarajan/cherrytux
     Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
-    Parent: Ubuntu
+    Parent: Ubuntu (unchanged)
 ```
 * Make /etc/dpkg/origins/default symlink to /etc/dpkg/origins/cherrytux 
 
