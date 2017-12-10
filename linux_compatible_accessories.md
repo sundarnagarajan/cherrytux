@@ -78,6 +78,7 @@ See on [Amazon](https://www.amazon.com/Kinivo-BTD-400-Bluetooth-4-0-adapter/dp/B
 
 #### GXG-1987 BTA-402 USB Bluetooth 4.0 Micro Adapter Dongle Mini Bluetooth 4.0 Adapter Dongle With CSR8510 Controller
 See on [Amazon](https://www.amazon.com/ORICO-BTA-402-Bluetooth-Adapter-Controller/dp/B00AKO7XOW)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R2J8WIYSQCMOQ6/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00AKO7XOW)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/R34Q1FDDG2CEDK/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00AKO7XOW)
@@ -85,6 +86,7 @@ See user comments on Linux compatibility:
 
 #### IOGEAR Bluetooth 4.0 USB Micro Adapter, GBU521
 See on [Amazon](https://www.amazon.com/IOGEAR-Bluetooth-Micro-Adapter-GBU521/dp/B007GFX0PY)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R20XGEUHBC7ZVR/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B007GFX0PY)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/R11766D37LKAGN/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B007GFX0PY)
@@ -107,12 +109,14 @@ See on [plugable.com](https://plugable.com/products/usb2-e1000/)
 
 #### USB Network Adapter,TechRise USB 3.0 to RJ45 Gigabit Ethernet LAN Network Adapter Supporting 10/100/1000 Mbps
 See on [Amazon](https://www.amazon.com/Network-Adapter-TechRise-Ethernet-Supporting/dp/B01K1NSSTA)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R1T66UE8MIWGUJ/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B01K1NSSTA)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/R1EP6GA35G5Y7G/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B01K1NSSTA)
 
 #### AmazonBasics USB 3.0 to 10/100/1000 Gigabit Ethernet Adapter
 See on [Amazon](https://www.amazon.com/AmazonBasics-1000-Gigabit-Ethernet-Adapter/dp/B00M77HMU0)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R3C4E6I9L8WHBB/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00M77HMU0)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/R1EQT8RT92G6D2/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00M77HMU0)
@@ -121,6 +125,7 @@ See user comments on Linux compatibility:
 
 #### Anker USB 3.0 Unibody Portable Aluminum Gigabit Ethernet Adapter Supporting 10 / 100 / 1000 Mbps Ethernet for Macbook, Mac Pro / mini, iMac, XPS, Surface Pro, Notebook PC, and More
 See on [Amazon](https://www.amazon.com/Anker-Unibody-Aluminum-Ethernet-Supporting/dp/B00PC0H9IE)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R1LBKULPP9VK9C/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00PC0H9IE)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/RMOZD7HWS35OT/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00PC0H9IE)
@@ -132,6 +137,7 @@ See on [Amazon](https://www.amazon.com/TRENDnet-Ethernet-Chromebook-Specific-TU3
 
 #### UGREEN Network Adapter USB 3.0 to Ethernet RJ45 Lan Gigabit Adapter for 10/100/1000 Mbps Ethernet Supports Nintendo Switch Black
 See on [Amazon](https://www.amazon.com/UGREEN-Gigabit-Ethernet-Network-1000Mbps/dp/B00MYTSN18)
+
 See user comments on Linux compatibility:
 * [Comment 1](https://www.amazon.com/gp/customer-reviews/R2OM3JOLU29UH6/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00MYTSN18)
 * [Comment 2](https://www.amazon.com/gp/customer-reviews/R1BZXTJRMPBQMW/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00MYTSN18)
