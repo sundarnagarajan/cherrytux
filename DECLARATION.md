@@ -54,6 +54,13 @@ I do not THINK the following keys need to be changed:
 * ID=ubuntu
 * UBUNTU_CODENAME=xenial
 
+## Examples of other (third-party) Ubuntu-derived distributions
+* [Bodhi Linux](http://www.bodhilinux.com/download/)
+* [easypeasy](http://www.geteasypeasy.com/)
+* [BackSlash Linux](https://www.backslashlinux.com/)
+* [Elementary OS](https://elementary.io/)
+* [Linux Mint](https://linuxmint.com/download.php)
+
 ## Reporting trademark issues
 Please open an issue on this github repository. If possible, label your issue as ```trademark```. The label is already created and ready. Include the following information:
 * Which trademark is affected?
