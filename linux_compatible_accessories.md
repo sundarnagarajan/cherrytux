@@ -4,7 +4,7 @@ Just works out of the box. I highly recommend plugable devices - they are very k
 
 iperf shows 918 Mbits/sec throughput (install iperf with ```sudo apt-get install iperf```)
 
-[Buy on Amazon](https://www.amazon.com/gp/product/B00AQM8586)
+See on [Amazon](https://www.amazon.com/gp/product/B00AQM8586)
 
 #### journalctl -fk output
 ```
@@ -32,7 +32,7 @@ Uses one USB 3.0 port and expands to 3 USB 3.0 ports.
 Also backward-compatible with USB 2.0 (but speeds will be limited to USB 2.0 speeds).
 Plug can rotate, allowing to use in different orientations.
 
-[Buy on Amazon](https://www.amazon.com/gp/product/B013XGK53E)
+Buy on [Amazon](https://www.amazon.com/gp/product/B013XGK53E)
 
 #### journalctl -fk output
 ```
