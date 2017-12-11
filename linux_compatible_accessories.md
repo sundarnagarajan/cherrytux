@@ -68,6 +68,7 @@ kernel: IPv6: ADDRCONF(NETDEV_CHANGE): enx8cae4cf4cf43: link becomes ready
 
 #### Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windows 10, 8.1, 8, 7, Raspberry Pi, Linux Compatible; Classic Bluetooth, and Stereo Headset Compatible)
 See on [Amazon](https://www.amazon.com/Plugable-Bluetooth-Adapter-Windows-Compatible/dp/B009ZIILLI)
+
 See on [plugable.com](https://plugable.com/products/usb-bt4le/)
 
 #### UtechSmart Bluetooth Adapter, (Broadcom BCM20702 chipset) UtechSmart USB Bluetooth 4.0 Low Energy Micro Adapter (Windows 10, 8.1, 8, 7, Raspberry Pi, Linux Compatible; Classic Bluetooth, and Stereo Headset Compatible)
@@ -96,15 +97,18 @@ See user comments on Linux compatibility:
 ### USB Ethernet adapters reported to be Linux-compatible
 
 #### Plugable USB 2.0 10/100 Ethernet adapter
-See on [plugable.com](https://plugable.com/products/usb2-e100/)
 See on [Amazon](https://www.amazon.com/dp/B00484IEJS)
+
+See on [plugable.com](https://plugable.com/products/usb2-e100/)
 
 #### Plugable USB-C to 10/100/1000 Gigabit Ethernet LAN Network Adapter (Compatible with Windows, Mac OS, Linux, Chrome OS)
 See on [Amazon](https://www.amazon.com/dp/B011DDXGVC)
+
 See on [plugable.com](https://plugable.com/products/usbc-e1000/)
 
 #### Plugable USB 2.0 to 10/100/1000 Gigabit Ethernet LAN Wired Network Adapter for Windows, Mac, Chromebook, Linux/Unix (ASIX AX88178 Chipset)
 See on [Amazon](https://www.amazon.com/dp/B003VSTDFG)
+
 See on [plugable.com](https://plugable.com/products/usb2-e1000/)
 
 #### USB Network Adapter,TechRise USB 3.0 to RJ45 Gigabit Ethernet LAN Network Adapter Supporting 10/100/1000 Mbps
