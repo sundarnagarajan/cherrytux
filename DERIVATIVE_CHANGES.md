@@ -80,7 +80,7 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  | Missing |
 | /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | Missing |
 |  |  |  |  |  |  |  |  |
-| /etc/os-release symlink to /usr/lib/os-release | Yes | Yes | Yes | Yes | Yes | No | No |
+| /etc/os-release symlink | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | No | pop-os/os-release |
 |  |  |  |  |  |  |  |  |
 | /etc/lsb-relelase DISTRIB_RELEASE  | No | Yes | No | Yes | Yes | Yes | No |
 | /etc/lsb-relelase DISTRIB_RELEASE | No | Yes | No | Yes | Yes | Yes | No |
