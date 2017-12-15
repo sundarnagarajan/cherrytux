@@ -67,7 +67,7 @@ I have analyzed the following Ubuntu derivatives:
 | Vendor-URL | No | No | No | No | No | Yes | No |
 | Bugs | No | No | No | No | No | Yes | No |
 | Parent | No | No | No | No | No | Yes | No |
-| Symlink to | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os/os-release |
+| Symlink to | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os |
 |  |  |  |  |  |  |  |  |
 | /etc/os-release |  |  |  |  |  |  |  |
 | NAME | No | Yes | No | Yes | Yes | Yes | Yes |
