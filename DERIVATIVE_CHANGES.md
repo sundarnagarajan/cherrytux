@@ -22,6 +22,10 @@
     Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
     Parent: Ubuntu
 ```
+  * We probably do **NOT** have to change anything in this file since:
+      * It refers to the *dpkg origin* - presumably origin of packages
+      * Vast majority of packages - except any PPA we add - are from Ubuntu
+      * It would be most informative to users to point them at the Ubuntu Vendor and Bugs URL
 
 ### /etc/dpkg/origins/ubuntu
 * This contains Vendor, Vendor URL, bugs URL and Parent
