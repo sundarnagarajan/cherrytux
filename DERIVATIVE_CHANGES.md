@@ -42,10 +42,10 @@ Needs a simple script to change (ONLY) the following keys:
 * HOME_URL
 * SUPPORT_URL
 * BUG_REPORT_URL
+* ID
 
-I do not THINK the following keys need to be changed:
+Following keys do not need to be changed:
 
-* ID=ubuntu
 * UBUNTU_CODENAME=xenial
 
 ### /usr/lib/os-release
