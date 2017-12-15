@@ -90,5 +90,5 @@ I have analyzed the following Ubuntu derivatives:
 | DISTRIB_DESCRIPTION | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
 | Symlink to | No | No | No | No | No | No | /etc/pop-os/lsb-release |
 |  |  |  |  |  |  |  |  |
-| Customized /etc/apt/sources.list | No | No | No |  | No | Yes | No |
+| Custom /etc/apt/sources.list | No | No | No |  | No | Yes | No |
 
