@@ -47,6 +47,10 @@ I do not THINK the following keys need to be changed:
 ### /usr/lib/os-release
 I do not think any changes to this file are required. I believe only ```/etc/os-release``` - which is originally a copy of this file - is used.
 
+### /usr/share/base-files/motd
+No changes required
+
+## Analysis of t=other Ubuntu-derived distributions
 I have analyzed the following Ubuntu derivatives:
 
 * [Bodhi Linux](http://www.bodhilinux.com/)
