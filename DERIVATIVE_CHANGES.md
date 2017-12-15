@@ -62,36 +62,33 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/issue | No | Yes | Yes | Yes | Yes | Yes | Yes |
 | /etc/issue.net | No | Yes | No | Yes | Yes | Yes | Yes |
 |  |  |  |  |  |  |  |  |
-| /etc/dpkg/origins/default : Vendor | No | No | No | No | No | Yes | No |
-| /etc/dpkg/origins/default : Vendor-URL | No | No | No | No | No | Yes | No |
-| /etc/dpkg/origins/default : Bugs | No | No | No | No | No | Yes | No |
-| /etc/dpkg/origins/default : Parent | No | No | No | No | No | Yes | No |
-| /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os/os-release |
+| /etc/dpkg/origins/default |  |  |  |  |  |  |  |
+| Vendor | No | No | No | No | No | Yes | No |
+| Vendor-URL | No | No | No | No | No | Yes | No |
+| Bugs | No | No | No | No | No | Yes | No |
+| Parent | No | No | No | No | No | Yes | No |
+| Symlink to | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os/os-release |
 |  |  |  |  |  |  |  |  |
-| /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes | Yes |
-| /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes | No |
-| /etc/os-release : ID | No | Yes | No | Yes | Yes | Yes | No |
-| /etc/os-release : ID_LIKE | No | Yes | No | Yes | No | No | No |
-| /etc/os-release : PRETTY_NAME | No | Yes | No | Yes | Yes | Yes | Yes |
-| /etc/os-release : VERSION_ID | No | Yes | No | Yes | Yes | Yes | No |
-| /etc/os-release : HOME_URL | No | Yes | No | Yes | Yes | Yes | Yes |
-| /etc/os-release : SUPPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
-| /etc/os-release : BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
-| /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  | No |
-| /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | No |
+| /etc/os-release |  |  |  |  |  |  |  |
+| NAME | No | Yes | No | Yes | Yes | Yes | Yes |
+| VERSION | No | Yes | No | Yes | Yes | Yes | No |
+| ID | No | Yes | No | Yes | Yes | Yes | No |
+| ID_LIKE | No | Yes | No | Yes | No | No | No |
+| PRETTY_NAME | No | Yes | No | Yes | Yes | Yes | Yes |
+| VERSION_ID | No | Yes | No | Yes | Yes | Yes | No |
+| HOME_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| SUPPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| VERSION_CODENAME | No | Yes | No | Yes | Yes |  | No |
+| UBUNTU_CODENAME | No | Yes | No | No | No | Missing | No |
+| Symlink to | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | No | pop-os/os-release |
+| /etc/lsb-relelase  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
-| /etc/os-release symlink | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | No | pop-os/os-release |
-|  |  |  |  |  |  |  |  |
-| /etc/lsb-relelase DISTRIB_RELEASE  | No | Yes | No | Yes | Yes | Yes | No |
-| /etc/lsb-relelase DISTRIB_RELEASE | No | Yes | No | Yes | Yes | Yes | No |
-| /etc/lsb-relelase DISTRIB_CODENAME | No | Yes | No | Yes | No | Yes | No |
-| /etc/lsb-relelase DISTRIB_DESCRIPTION | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
-|  |  |  |  |  |  |  |  |
-| /etc/lsb-release symlink | No | No | No | No | No | No | /etc/pop-os/lsb-release |
+| DISTRIB_RELEASE  | No | Yes | No | Yes | Yes | Yes | No |
+| DISTRIB_RELEASE | No | Yes | No | Yes | Yes | Yes | No |
+| DISTRIB_CODENAME | No | Yes | No | Yes | No | Yes | No |
+| DISTRIB_DESCRIPTION | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+| Symlink to | No | No | No | No | No | No | /etc/pop-os/lsb-release |
 |  |  |  |  |  |  |  |  |
 | Customized /etc/apt/sources.list | No | No | No |  | No | Yes | No |
 |  |  |  |  |  |  |  |  |
-
-
-
-
