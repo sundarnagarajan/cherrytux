@@ -7,6 +7,10 @@
 * Definitely part of ‘config’
 * Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
 
+### /etc/lsb-release
+* Change following keys, replacing only Ubuntu:
+* Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
+
 ### /etc/dpkg/origins/default
 * Symlink - points at /etc/dpkg/origins/ubuntu
 * Create new target /etc/dpkg/origins/cherrytux and point at that instead
@@ -45,7 +49,7 @@ I do not THINK the following keys need to be changed:
 * UBUNTU_CODENAME=xenial
 
 ### /usr/lib/os-release
-I do not think any changes to this file are required. I believe only ```/etc/os-release``` - which is originally a copy of this file - is used.
+No changes required. Only ```/etc/os-release``` - which is originally a copy of this file - is used.
 
 ### /usr/share/base-files/motd
 No changes required
