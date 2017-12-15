@@ -68,17 +68,17 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/dpkg/origins/default : Parent | No | No | No | No | No | Yes | No |
 | /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os/os-release |
 |  |  |  |  |  |  |  |  |
-| /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : ID | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : ID_LIKE | No | Yes | No | Yes | No | No | Missing |
-| /etc/os-release : PRETTY_NAME | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : VERSION_ID | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : HOME_URL | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : SUPPORT_URL | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes | Missing |
-| /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  | Missing |
-| /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | Missing |
+| /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes | Yes |
+| /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes | No |
+| /etc/os-release : ID | No | Yes | No | Yes | Yes | Yes | No |
+| /etc/os-release : ID_LIKE | No | Yes | No | Yes | No | No | No |
+| /etc/os-release : PRETTY_NAME | No | Yes | No | Yes | Yes | Yes | Yes |
+| /etc/os-release : VERSION_ID | No | Yes | No | Yes | Yes | Yes | No |
+| /etc/os-release : HOME_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| /etc/os-release : SUPPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| /etc/os-release : BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes | Yes |
+| /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  | No |
+| /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | No |
 |  |  |  |  |  |  |  |  |
 | /etc/os-release symlink | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | No | pop-os/os-release |
 |  |  |  |  |  |  |  |  |
