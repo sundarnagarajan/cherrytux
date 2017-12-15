@@ -55,32 +55,35 @@ I have analyzed 6 Ubuntu derivatives, and the results from these distributions a
 * [Linux Mint](https://linuxmint.com/)
 * [Peppermint OS](https://peppermintos.com/)
 * [Trisquel](https://trisquel.info/)
+* [Pop! OS](https://system76.com/pop)
 
-| Derivative change | [Bodhi](http://www.bodhilinux.com/) | [Elementary](https://elementary.io/) | [Lite](https://www.linuxliteos.com/) | [Mint](https://linuxmint.com/) | [Peppermint](https://peppermintos.com/) | [Trisquel](https://trisquel.info/) |
-| ----------------- | --------- | -------------- | -------- | -------- | ------------ | ---------- |
-| /etc/issue | No | Yes | Yes | Yes | Yes | Yes |
-| /etc/issue.net | No | Yes | No | Yes | Yes | Yes |
-|  |  |  |  |  |  |  |
-| /etc/dpkg/origins/default : Vendor | No | No | No | No | No | Yes |
-| /etc/dpkg/origins/default : Vendor-URL | No | No | No | No | No | Yes |
-| /etc/dpkg/origins/default : Bugs | No | No | No | No | No | Yes |
-| /etc/dpkg/origins/default : Parent | No | No | No | No | No | Yes |
-| /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel |
-|  |  |  |  |  |  |  |
-| /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : ID | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : ID_LIKE | No | Yes | No | Yes | No | No |
-| /etc/os-release : PRETTY_NAME | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : VERSION_ID | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : HOME_URL | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : SUPPORT_URL | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes |
-| /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  |
-| /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing |
-|  |  |  |  |  |  |  |
-| /etc/os-release symlink to /usr/lib/os-release | Yes | Yes | Yes | Yes | Yes | No |
-|  |  |  |  |  |  |  |
+| Derivative change | [Bodhi](http://www.bodhilinux.com/) | [Elementary](https://elementary.io/) | [Lite](https://www.linuxliteos.com/) | [Mint](https://linuxmint.com/) | [Peppermint](https://peppermintos.com/) | [Trisquel](https://trisquel.info/) | [Pop! OS](https://system76.com/pop)
+| ----------------- | --------- | -------------- | -------- | -------- | ------------ | ---------- | --------- |
+| /etc/issue | No | Yes | Yes | Yes | Yes | Yes | Yes |
+| /etc/issue.net | No | Yes | No | Yes | Yes | Yes | Yes |
+|  |  |  |  |  |  |  |  |
+| /etc/dpkg/origins/default : Vendor | No | No | No | No | No | Yes | No |
+| /etc/dpkg/origins/default : Vendor-URL | No | No | No | No | No | Yes | No |
+| /etc/dpkg/origins/default : Bugs | No | No | No | No | No | Yes | No |
+| /etc/dpkg/origins/default : Parent | No | No | No | No | No | Yes | No |
+| /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop_os/os-release |
+|  |  |  |  |  |  |  |  |
+| /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : ID | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : ID_LIKE | No | Yes | No | Yes | No | No | Missing |
+| /etc/os-release : PRETTY_NAME | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : VERSION_ID | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : HOME_URL | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : SUPPORT_URL | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : BUG_REPORT_URL | No | Yes | No | Yes | Yes | Yes | Missing |
+| /etc/os-release : VERSION_CODENAME | No | Yes | No | Yes | Yes |  | Missing |
+| /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | Missing |
+|  |  |  |  |  |  |  |  |
+| /etc/os-release symlink to /usr/lib/os-release | Yes | Yes | Yes | Yes | Yes | No | No |
+|  |  |  |  |  |  |  |  |
+| Customized /etc/apt/sources.list | No | No | No |  | No | Yes | No |
+|  |  |  |  |  |  |  |  |
 
 
 
