@@ -66,7 +66,7 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/dpkg/origins/default : Vendor-URL | No | No | No | No | No | Yes | No |
 | /etc/dpkg/origins/default : Bugs | No | No | No | No | No | Yes | No |
 | /etc/dpkg/origins/default : Parent | No | No | No | No | No | Yes | No |
-| /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop_os/os-release |
+| /etc/dpkg/origins/default points at | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os/os-release |
 |  |  |  |  |  |  |  |  |
 | /etc/os-release : NAME | No | Yes | No | Yes | Yes | Yes | Missing |
 | /etc/os-release : VERSION | No | Yes | No | Yes | Yes | Yes | Missing |
@@ -81,6 +81,13 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/os-release : UBUNTU_CODENAME | No | Yes | No | No | No | Missing | Missing |
 |  |  |  |  |  |  |  |  |
 | /etc/os-release symlink to /usr/lib/os-release | Yes | Yes | Yes | Yes | Yes | No | No |
+|  |  |  |  |  |  |  |  |
+| /etc/lsb-relelase DISTRIB_RELEASE  | No | Yes | No | Yes | Yes | Yes | No |
+| /etc/lsb-relelase DISTRIB_RELEASE | No | Yes | No | Yes | Yes | Yes | No |
+| /etc/lsb-relelase DISTRIB_CODENAME | No | Yes | No | Yes | No | Yes | No |
+| /etc/lsb-relelase DISTRIB_DESCRIPTION | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
+|  |  |  |  |  |  |  |  |
+| /etc/lsb-release symlink | No | No | No | No | No | No | /etc/pop-os/lsb-release |
 |  |  |  |  |  |  |  |  |
 | Customized /etc/apt/sources.list | No | No | No |  | No | Yes | No |
 |  |  |  |  |  |  |  |  |
