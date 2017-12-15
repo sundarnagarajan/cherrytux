@@ -41,15 +41,6 @@ No changes required. Only ```/etc/os-release``` - which is originally a copy of 
 No changes required
 
 ## Analysis of other Ubuntu-derived distributions
-I have analyzed the following Ubuntu derivatives:
-
-* [Bodhi Linux](http://www.bodhilinux.com/)
-* [Elementary OS](https://elementary.io/)
-* [Linux Lite](https://www.linuxliteos.com/)
-* [Linux Mint](https://linuxmint.com/)
-* [Peppermint OS](https://peppermintos.com/)
-* [Trisquel](https://trisquel.info/)
-* [Pop! OS](https://system76.com/pop)
 
 | Derivative change | [Bodhi](http://www.bodhilinux.com/) | [Elementary](https://elementary.io/) | [Lite](https://www.linuxliteos.com/) | [Mint](https://linuxmint.com/) | [Peppermint](https://peppermintos.com/) | [Trisquel](https://trisquel.info/) | [Pop! OS](https://system76.com/pop)
 | ----------------- | --------- | -------------- | -------- | -------- | ------------ | ---------- | --------- |
