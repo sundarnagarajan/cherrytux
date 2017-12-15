@@ -62,7 +62,7 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/issue | No | Yes | Yes | Yes | Yes | Yes | Yes |
 | /etc/issue.net | No | Yes | No | Yes | Yes | Yes | Yes |
 |  |  |  |  |  |  |  |  |
-| /etc/dpkg/origins/default |  |
+||
 | /etc/dpkg/origins/default |  |  |  |  |  |  |  |
 | Vendor | No | No | No | No | No | Yes | No |
 | Vendor-URL | No | No | No | No | No | Yes | No |
