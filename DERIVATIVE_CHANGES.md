@@ -62,15 +62,14 @@ I have analyzed the following Ubuntu derivatives:
 | /etc/issue | No | Yes | Yes | Yes | Yes | Yes | Yes |
 | /etc/issue.net | No | Yes | No | Yes | Yes | Yes | Yes |
 |  |  |  |  |  |  |  |  |
-||
-| /etc/dpkg/origins/default |  |  |  |  |  |  |  |
+| **/etc/dpkg/origins/default** |  |  |  |  |  |  |  |
 | Vendor | No | No | No | No | No | Yes | No |
 | Vendor-URL | No | No | No | No | No | Yes | No |
 | Bugs | No | No | No | No | No | Yes | No |
 | Parent | No | No | No | No | No | Yes | No |
 | Symlink to | ubuntu | ubuntu | ubuntu | ubuntu | ubuntu | trisquel | pop-os |
 |  |  |  |  |  |  |  |  |
-| /etc/os-release |  |  |  |  |  |  |  |
+| **/etc/os-release** |  |  |  |  |  |  |  |
 | NAME | No | Yes | No | Yes | Yes | Yes | Yes |
 | VERSION | No | Yes | No | Yes | Yes | Yes | No |
 | ID | No | Yes | No | Yes | Yes | Yes | No |
@@ -83,8 +82,8 @@ I have analyzed the following Ubuntu derivatives:
 | VERSION_CODENAME | No | Yes | No | Yes | Yes |  | No |
 | UBUNTU_CODENAME | No | Yes | No | No | No | Missing | No |
 | Symlink to | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | /usr/lib/os-release | No | pop-os/os-release |
-| /etc/lsb-relelase  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
+| **/etc/lsb-relelase**  |  |  |  |  |  |  |  |
 | DISTRIB_RELEASE  | No | Yes | No | Yes | Yes | Yes | No |
 | DISTRIB_RELEASE | No | Yes | No | Yes | Yes | Yes | No |
 | DISTRIB_CODENAME | No | Yes | No | Yes | No | Yes | No |
@@ -92,4 +91,4 @@ I have analyzed the following Ubuntu derivatives:
 | Symlink to | No | No | No | No | No | No | /etc/pop-os/lsb-release |
 |  |  |  |  |  |  |  |  |
 | Customized /etc/apt/sources.list | No | No | No |  | No | Yes | No |
-|  |  |  |  |  |  |  |  |
+
