@@ -47,7 +47,7 @@ I do not THINK the following keys need to be changed:
 ### /usr/lib/os-release
 I do not think any changes to this file are required. I believe only ```/etc/os-release``` - which is originally a copy of this file - is used.
 
-I have analyzed 6 Ubuntu derivatives, and the results from these distributions are below:
+I have analyzed the following Ubuntu derivatives:
 
 * [Bodhi Linux](http://www.bodhilinux.com/)
 * [Elementary OS](https://elementary.io/)
