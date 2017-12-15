@@ -1,42 +1,24 @@
 ## Files to be changed
 ### /etc/issue
-* Definitely part of ‘config’
-* Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
+* Change using sed -e 's/ubuntu/cherrytux/gI'
 
 ### /etc/issue.net
-* Definitely part of ‘config’
-* Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
+* Change using sed -e 's/ubuntu/cherrytux/gI'
 
 ### /etc/lsb-release
-* Change following keys, replacing only Ubuntu:
-* Can be changed just using sed -e 's/ubuntu/cherrytux/gI'
+* Change using sed -e 's/ubuntu/cherrytux/gI'
 
 ### /etc/dpkg/origins/default
 * Symlink - points at /etc/dpkg/origins/ubuntu
-* Create new target /etc/dpkg/origins/cherrytux and point at that instead
-* This contains Vendor, Vendor URL, bugs URL and Parent
-* Change to:
-```
-    Vendor: Cherrytux
-    Vendor-URL: https://github.com/sundarnagarajan/cherrytux
-    Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
-    Parent: Ubuntu
-```
-  * We probably do **NOT** have to change anything in this file since:
-      * It refers to the *dpkg origin* - presumably origin of packages
-      * Vast majority of packages - except any PPA we add - are from Ubuntu
-      * It would be most informative to users to point them at the Ubuntu Vendor and Bugs URL
+* Copy ```/etc/dpkg/origins/ubuntu``` to ```/etc/dpkg/origins/cherrytux```
+* Change symlink to point at ```/etc/dpkg/origins/cherrytux```
+* We do **NOT** have to change anything in this file since:
+    * It refers to the *dpkg origin* - presumably origin of packages
+    * Vast majority of packages - except any PPA we add - are from Ubuntu
+    * It would be most informative to users to point them at the Ubuntu Vendor and Bugs URL
 
 ### /etc/dpkg/origins/ubuntu
-* This contains Vendor, Vendor URL, bugs URL and Parent
-* Leave unchanged (owned by package base-files) and create new file /etc/dpkg/origins/cherrytux containing:
-```
-    Vendor: Cherrytux
-    Vendor-URL: https://github.com/sundarnagarajan/cherrytux
-    Bugs URL: https://github.com/sundarnagarajan/cherrytux/issues
-    Parent: Ubuntu
-```
-* Make /etc/dpkg/origins/default symlink to /etc/dpkg/origins/cherrytux 
+* Leave unchanged (owned by package base-files)
 
 ### /etc/os-release
 Needs a simple script to change (ONLY) the following keys:
@@ -58,7 +40,7 @@ No changes required. Only ```/etc/os-release``` - which is originally a copy of 
 ### /usr/share/base-files/motd
 No changes required
 
-## Analysis of t=other Ubuntu-derived distributions
+## Analysis of other Ubuntu-derived distributions
 I have analyzed the following Ubuntu derivatives:
 
 * [Bodhi Linux](http://www.bodhilinux.com/)
