@@ -94,3 +94,5 @@ If you have this laptop, you can (also) go to [my RDP Thinbook repository](https
 ### [Chuwi Hi12 12-inch tablet](http://en.chuwi.com/product/items/Chuwi-Hi12.html)
 
 ### [UP-GWS01.w/4G memory,32G eMMC board.w/ VESA plate](https://up-shop.org/home/81-up-gws01w4g-memory32g-emmc-boardwo-vesa-plate.html)
+
+### [RKM MK36S Intel Windows10 Z8300 TV Box 2GB RAM,32GB ROM eMMC Dual Band WIFI 802.11b/g/n Bluetooth4.0 USB3.0[MK36S]](https://www.aliexpress.com/store/product/RKM-MK36S-Intel-Windows10-Z8300-TV-Box-2GB-RAM-32GB-ROM-eMMC-Dual-Band-WIFI-802/810525_32330733554.html)
