@@ -40,6 +40,8 @@ As you can see below, there are a variety of products using the Intel Cherry Tra
 * Fairly inexpensive
 * Usually have maximum of 2GB or 4GB RAM
 * Many (but not all) are Chinese brands
+* **SOME** have a touchscreen
+* **SOME** have a docking keyboard
 
 ### [RDP Thinbook 1430 14.1 inch](http://rdp.in/laptop/)
 If you have this laptop, you can (also) go to [my RDP Thinbook repository](https://github.com/sundarnagarajan/rdp-thinbook-linux)
