@@ -26,7 +26,7 @@ I will be happy to remove URLs for any issues opened with valid information as i
 ## No recommendations
 I do not specifically recommend any of the products listed below. I also do not specifically express any preferences of one product over another except for:
 * If I have personally tested a model, I may indicate as such
-* If I have found a model to have specific issues, I may make a reference to such issues
+* If I have found a model to have specific issues or has issues relating to a model reported on this github repository, I may make a reference to such issues, and may also list known solutions / workarounds if available - **primary purpose of this repository**
 * If I have not found any issues myself or had issues reported on this github repository related to a model, I may indicate as such
 
 ## No preference for retail web sites
