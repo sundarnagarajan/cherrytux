@@ -36,6 +36,10 @@ Links to manucacturer URLs are also welcome.
 
 ## Products
 
+### [RDP Thinbook 1430 14.1 inch](http://rdp.in/laptop/)
+
+### [RDP Thinbook 1130 11 inch](http://rdp.in/laptop/)
+
 ### [Onda oBOOK 11 Ultrabook](https://www.gearbest.com/tablet-pcs/pp_263297.html)
 
 ### [YEPO 737S 64GB eMMC Notebook](https://www.gearbest.com/computers/pp_555840.html)
