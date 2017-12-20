@@ -6,7 +6,7 @@
 * [Ubuntu Derivative Distro HOWTO](https://wiki.ubuntu.com/DerivativeDistroHowto)
 * [Debian Derivative distro guidelines](https://wiki.debian.org/Derivatives/Guidelines)
 
-## Examples of other (third-party) Ubuntu-derived distributions
+## Other (third-party) Ubuntu-derived distributions that I studied
 * [Bodhi Linux](http://www.bodhilinux.com/)
 * [Elementary](https://elementary.io/)
 * [Linux Lite](https://www.linuxliteos.com/)
