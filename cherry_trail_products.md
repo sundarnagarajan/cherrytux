@@ -1,5 +1,5 @@
 ## Non-commercial
-I provide links to examples of laptops / notebooks / tablets / mini PC etc running on the Intel Cherry Trail (TM) platform only to help other users of these products identify their products and know that the products they own (probaby) use this platform.
+I provide links to examples of laptops / notebooks / tablets / mini PC etc running on the Intel Cherry Trail (TM) platform only to help other users of these products identify their products and know that the products they own (probaby) use this platform. This is **NOT a buying guide or a recommendation site**.
 
 I have no commercial affiliation whatsoever with the manufacturers of these products or the retail web sites listed.
 
