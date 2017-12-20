@@ -93,3 +93,4 @@ If you have this laptop, you can (also) go to [my RDP Thinbook repository](https
 
 ### [Chuwi Hi12 12-inch tablet](http://en.chuwi.com/product/items/Chuwi-Hi12.html)
 
+### [UP-GWS01.w/4G memory,32G eMMC board.w/ VESA plate](https://up-shop.org/home/81-up-gws01w4g-memory32g-emmc-boardwo-vesa-plate.html)
