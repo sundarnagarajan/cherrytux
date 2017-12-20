@@ -39,7 +39,7 @@ As you can see below, there are a variety of products using the Intel Cherry Tra
 * Using Intel Atom (TM) Z8300 or Z-8350 SoC
 * Fairly inexpensive
 * Usually have maximum of 2GB or 4GB RAM
-* Many (but not all) are Chinese brands
+* Many (**but not all**) are Chinese brands
 * **SOME** have a touchscreen
 * **SOME** have a docking keyboard
 
