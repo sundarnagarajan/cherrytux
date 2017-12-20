@@ -35,10 +35,17 @@ In general I do not have a preference for product links on any particular retail
 Links to manucacturer URLs are also welcome.
 
 ## Products
+As you can see below, there are a variety of products using the Intel Cherry Trail (TM) platform. What is common to all of these products is:
+* Using Intel Atom (TM) Z8300 or Z-8350 SoC
+* Fairly inexpensive
+* Usually have maximum of 2GB or 4GB RAM
+* Many (but not all) are Chinese brands
 
 ### [RDP Thinbook 1430 14.1 inch](http://rdp.in/laptop/)
+If you have this laptop, you can (also) go to [my RDP Thinbook repository](https://github.com/sundarnagarajan/rdp-thinbook-linux)
 
 ### [RDP Thinbook 1130 11 inch](http://rdp.in/laptop/)
+If you have this laptop, you can (also) go to [my RDP Thinbook repository](https://github.com/sundarnagarajan/rdp-thinbook-linux)
 
 ### [Onda oBOOK 11 Ultrabook](https://www.gearbest.com/tablet-pcs/pp_263297.html)
 
@@ -82,5 +89,5 @@ Links to manucacturer URLs are also welcome.
 
 ### [Windows Tablet, CHUWI Hi10 Plus Windows 10/Android 5.1 Dual Boot 2-in-1 Tablet PC, 10.8" Full HD Display, featuring Intel X5 Cherry Trail Z8350 Quad Core, 4GB RAM/64GB ROM and Wifi](https://www.amazon.com/dp/B01NCO6P93)
 
-### []()
+### [Chuwi Hi12 12-inch tablet](http://en.chuwi.com/product/items/Chuwi-Hi12.html)
 
