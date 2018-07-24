@@ -1,5 +1,5 @@
 ## Non-commercial
-I provide links to examples of laptops / notebooks / tablets / mini PC etc running on the Intel Cherry Trail (TM) platform only to help other users of these products identify their products and know that the products they own (probaby) use this platform. This is **NOT a buying guide or a recommendation site**.
+I provide links to examples of [laptops / notebooks / tablets / mini PC etc running on the Intel Cherry Trail (TM) platform](/cherry_trail_products.md) only to help other users of these products identify their products and know that the products they own (probaby) use this platform. This is **NOT a buying guide or a recommendation site**.
 
 I also provide links to [accessories that are known to be Linux-compatible](/linux_compatible_accessories.md). This is  only to help other users easily find accessories that will work well under Linux.
 
