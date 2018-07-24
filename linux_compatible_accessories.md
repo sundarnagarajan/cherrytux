@@ -1,3 +1,6 @@
+## Important
+See [my declaration and policy on product links](/product_links.md)
+
 ### Plugable USB 3.0 to 10/100/1000 Gigabit Ethernet LAN Network Adapter - ASIX AX88179 chipset
 
 Just works out of the box. I highly recommend plugable devices - they are very knowledgeable about Linux and clearly indicate which devices may have issues on linux and why.
