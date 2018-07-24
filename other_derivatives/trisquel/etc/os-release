@@ -1,0 +1,9 @@
+NAME="Trisquel GNU/Linux"
+VERSION="7.0, Belenos"
+ID=trisquel
+ID_LIKE=debian
+PRETTY_NAME="Trisquel GNU/Linux Belenos (7.0)"
+VERSION_ID="7.0"
+HOME_URL="https://trisquel.info/"
+SUPPORT_URL="https://trisquel.info/wiki"
+BUG_REPORT_URL="https://trisquel.info/project/issues"

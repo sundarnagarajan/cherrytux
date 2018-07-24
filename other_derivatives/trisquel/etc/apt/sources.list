@@ -1,0 +1,11 @@
+# Trisquel repositories for supported software and updates
+deb cdrom:[Trisquel 7.0 _belenos_ - Release amd64 (20141102)]/ belenos main
+deb http://es.archive.trisquel.info/trisquel belenos main
+#deb-src http://es.archive.trisquel.info/trisquel belenos main
+deb http://es.archive.trisquel.info/trisquel belenos-updates main
+#deb-src http://es.archive.trisquel.info/trisquel belenos-updates main
+deb http://es.archive.trisquel.info/trisquel belenos-security main
+#deb-src http://es.archive.trisquel.info/trisquel belenos-security main
+#deb http://es.archive.trisquel.info/trisquel belenos-backports main
+#deb-src http://es.archive.trisquel.info/trisquel belenos-backports main
+

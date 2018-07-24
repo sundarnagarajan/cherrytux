@@ -1,0 +1,9 @@
+deb cdrom:[Pop_OS 17.10 _Artful Aardvark_ - Release amd64 (20171018)]/ artful main restricted
+deb http://us.archive.ubuntu.com/ubuntu/ artful-updates main restricted universe multiverse
+# deb-src http://us.archive.ubuntu.com/ubuntu/ artful-updates main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ artful-backports main restricted universe multiverse
+# deb-src http://us.archive.ubuntu.com/ubuntu/ artful-backports main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu/ artful-security main restricted universe multiverse
+# deb-src http://us.archive.ubuntu.com/ubuntu/ artful-security main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu artful main restricted universe multiverse
+

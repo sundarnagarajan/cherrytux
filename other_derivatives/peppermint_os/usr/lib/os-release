@@ -1,0 +1,10 @@
+NAME="Peppermint"
+VERSION="Eight"
+ID=peppermint
+ID_LIKE=debian
+PRETTY_NAME="Peppermint Eight"
+VERSION_ID="8"
+HOME_URL="http://peppermintos.com/"
+SUPPORT_URL="http://forum.peppermintos.com/"
+BUG_REPORT_URL="http://bugs.launchpad.net/~peppermintos/"
+UBUNTU_CODENAME=xenial

@@ -1,0 +1,8 @@
+deb cdrom:[Peppermint 8 _Eight_ - Release amd64 (20171130)]/ xenial main multiverse restricted universe
+deb http://archive.ubuntu.com/ubuntu/ xenial main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu/ xenial-security main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ xenial-updates main restricted universe multiverse
+deb http://archive.canonical.com/ubuntu xenial partner
+deb-src http://archive.canonical.com/ubuntu xenial partner
+
+
